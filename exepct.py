@@ -1,0 +1,17 @@
+try:
+	print("s")
+except:
+	print("error")
+try:
+	s=1
+	print(s)
+except:
+	print("error")
+try:
+	print("s")
+except:
+	print("error")
+else:
+	print("u")
+finally:
+	print("successful")
