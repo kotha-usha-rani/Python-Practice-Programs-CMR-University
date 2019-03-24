@@ -2,7 +2,7 @@ import random
 l=["r","p","s"]
 while True:
 	u=input("enter your choice,enter e to exit")
-	if u=="e":
+	if u=="e
 		print("game over")
 		exit()
 	c=random.choice(l)
